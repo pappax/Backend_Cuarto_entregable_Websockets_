@@ -1,0 +1,25 @@
+{
+  "name": "cuarto_entregable_websockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pappax/Backend_Cuarto_entregable_Websockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pappax/Backend_Cuarto_entregable_Websockets/issues"
+  },
+  "homepage": "https://github.com/pappax/Backend_Cuarto_entregable_Websockets#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "socket.io": "^4.6.1"
+  }
+}
